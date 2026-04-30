@@ -23,7 +23,7 @@ repository               : "jamespangyan/jamespangyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "James photo.jpg"
   name             : "Pang Yan (James)"
   pronouns         : # example: "she/her"  
   bio              : "Professor at National University of Singapore"
@@ -33,11 +33,11 @@ author:
   email            : "jamespang@nus.edu.sg" 
 
   # Academic websites
-  Academia Website : "https://discovery.nus.edu.sg/10509-yan-james-pang"
+  academia         : "https://discovery.nus.edu.sg/10509-yan-james-pang"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
-  LinkedIn      : "https://www.linkedin.com/in/james-yan-pang-257a6311/"
+  LinkedIn      : #"https://www.linkedin.com/in/james-yan-pang-257a6311/"
   orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jamesyanpang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "james-yan-pang-257a6311"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
