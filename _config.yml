@@ -23,7 +23,7 @@ repository               : "jamespangyan/jamespangyan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "James.jpg"
   name             : "Pang Yan (James)"
   pronouns         : # example: "she/her"  
   bio              : "Professor at National University of Singapore"
