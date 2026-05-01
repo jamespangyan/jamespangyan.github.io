@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: "Research Team Members"
 permalink: /people/
 author_profile: true
 redirect_from:
