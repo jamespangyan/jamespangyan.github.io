@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Team Members"
+title: "Current Team Members"
 permalink: /team/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Current Team Members
-======
 
 Students
 ------
