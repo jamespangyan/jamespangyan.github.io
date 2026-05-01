@@ -37,16 +37,15 @@ Hrithik Kannan Krishnan (Research Assistant)
 
 Previous Team Members
 ======
-
-PhD Students
-------
 Li Wenqian (PostDoc at the Chinese University of Hong Kong)
 
-Research Associate/Assistant/Master Students
-------
 Yan Ran (Product Manager, ByteDance Doubao LLM)
+
 Shivam Bansal (Vice President, H2O.AI)
+
 Xhoni Shollaj (Senior Solution Architect, NVIDIA)
+
 Tang Han (Senior Staff Data Scientist, Tencent)
+
 Juwon Im (Account Manager, Meta)
 
