@@ -9,9 +9,6 @@
 
 main:
   
-  - title: "People"
-    url: /teaching/    
-  
   - title: "Publications"
     url: /publications/
 
@@ -26,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/  
     
   # - title: "CV"
   #   url: /cv-json/
