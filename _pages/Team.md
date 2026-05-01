@@ -11,54 +11,43 @@ redirect_from:
 
 Current Team Members
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Students
+------
+Zhang Jingqi (PhD, NUS Institute of Operations Research and Analytics)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+LI Qiankun (PhD, NUS Institute of Operations Research and Analytics)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Boonthicha Sae-Jia, Mui (PhD, NUS Asian Institute of Digital Finance)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Luo Hao (PhD, NUS College of Design and Engineering)
 
-Publications
+Researchers
+------
+Mai Peihua (PhD graduated in 2025, Now, PostDoc at NUS)
+
+Bhargav Sagiraju (Research Associate)
+
+Soumya Haridas (Research Associate)
+
+Yu Zhen (Research Associate)
+
+Lim Choon Hao (Research Assistant)
+
+Wu Yuhan (Research Assistant)
+
+Hrithik Kannan Krishnan (Research Assistant)
+
+Previous Team Members
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+PhD Students
+------
+Li Wenqian (PostDoc at the Chinese University of Hong Kong)
+
+Research Associate/Assistant/Master Students
+------
+Yan Ran (Product Manager, ByteDance Doubao LLM)
+Shivam Bansal (Vice President, H2O.AI)
+Xhoni Shollaj (Senior Solution Architect, NVIDIA)
+Tang Han (Senior Staff Data Scientist, Tencent)
+Juwon Im (Account Manager, Meta)
+
