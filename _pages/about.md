@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Dr. Pang is currently a Professor in the Department of Analytics and Operations (DAO) at the National University of Singapore (NUS). He also serves as the Co-Director of the NUS Business Analytics Center (NUS BAC). His recent research focuses on data privacy and security, trustworthy AI, Blockchain, and Business Analytics. He has rich multi-industry experience in Manufacturing, Supply Chain/Logistics, Finance, Healthcare, and Retail sectors. Prior to his current role, he was the Chief Architect in Analytics and Optimisation at IBM and led the IBM solution design for ASEAN Public Sector. He has also held key positions as Lead Architect and Senior Manager at IBM R&D Labs, focusing on analytics and optimization product development. Earlier in his career, Dr. Pang contributed as a Research Scientist at Motorola Labs and Micron Technology, where he developed and implemented operations research and analytics models to enhance supply chains and manufacturing systems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Pang is the recipient of numerous prestigious industry and academic awards, including Leading Academic Data Leader by CDO Magazine, IBM Outstanding Technical Achievement Award (OTAA), Master Certified Architect in the Open Group, IBM Invention Plateau Award, finalist of the Andrew Fraser Prize 2007 of IMechE. Dr. Pang also serves on several industry advisory boards, such as Singapore Tourism Board Data Advisory Panel, SAP APCJ Academic Board, China Cloud System Pioneer Strategic Alliance, Singapore Computer Society (Business Analytics Chapter), IBM BAO (business analytics and optimization) architecture board, IBM SDE (Software Defined Environment) architecture board, IBM AP Invention Disclosure Review Board, China 12th five-year development advisory board (IT chapter).
+
+Dr. Pang holds over ten patents across the United States, China, and Singapore and publishes extensively in top-tier AI and analytics journals and conferences such as NeurIPS, ICML, CVPR, ICLR, IEEE S&P, EMNLP, and TAI. Dr. Pang holds a Ph.D. from National University of Singapore (NUS) jointly with Massachusetts Institute of Technology (MIT), and Master’s and Bachelor’s degrees from Zhejiang University (ZJU), China. 
 
 A data-driven personal website
 ======
