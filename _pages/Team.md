@@ -11,6 +11,7 @@ redirect_from:
 
 Current Team Members
 ======
+
 Students
 ------
 Zhang Jingqi (PhD, NUS Institute of Operations Research and Analytics)
@@ -39,6 +40,7 @@ Hrithik Kannan Krishnan (Research Assistant)
 
 Previous Team Members
 ======
+
 PhD Students
 ------
 Li Wenqian (PostDoc at the Chinese University of Hong Kong)
