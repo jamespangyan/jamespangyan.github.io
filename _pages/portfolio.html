@@ -1,14 +1,24 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Media Coverage"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<p>Selected media appearances and expert commentary on artificial intelligence, the digital economy, blockchain and technology.</p>
 
+{% assign coverage_by_year = site.data.media_coverage | group_by: "year" %}
+<nav aria-label="Media coverage by year">
+  <p>{% for year in coverage_by_year %}<a href="#coverage-{{ year.name }}">{{ year.name }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
+</nav>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for year in coverage_by_year %}
+  <h2 id="coverage-{{ year.name }}">{{ year.name }}</h2>
+  {% for coverage in year.items %}
+    <article class="archive__item" style="margin-bottom: 1.5em;">
+      <h3 style="margin-bottom: 0.4em;">{{ coverage.topic | escape }}</h3>
+      <p style="margin-top: 0;"><strong>{{ coverage.outlet | escape }}</strong> &middot; {{ coverage.date_display | escape }}{% if coverage.url != "" %}<br /><a href="{{ coverage.url | escape }}">{{ coverage.link_label | escape }}<span class="sr-only">: {{ coverage.topic | escape }}</span></a>{% endif %}</p>
+    </article>
+  {% endfor %}
 {% endfor %}
 
