@@ -15,13 +15,13 @@ main:
   - title: "Research Team"
     url: /team/
 
-  - title: "Talks"
+  - title: "Industry Engagement"
     url: /talks/    
     
-  - title: "Portfolio"
+  - title: "Media Coverage"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Technology Column Articles"
     url: /year-archive/
 
   - title: "Teaching"
