@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Pang Yan (James) Website"
+title                    : "Pang Yan (James)"
 title_separator          : "-"
 name                     : &name "Pang Yan (James)"
 description              : &description "Pang Yan (James), Professor at the National University of Singapore. Research in trustworthy AI, privacy-preserving learning, data marketplaces, and business analytics."
