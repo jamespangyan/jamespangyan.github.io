@@ -1,6 +1,15 @@
 {
   "talks": [
     {
+      "event": "SAP APAC Executive Exchange for Discrete Industry",
+      "topic": "Trustworthy AI for the Autonomous Enterprise - Building Effective Human–Agent Collaboration",
+      "type": "Topic",
+      "year": "2026",
+      "date": "2026-09-01",
+      "date_display": "September 2026",
+      "location": "Singapore"
+    },
+    {
       "event": "SAP Academic Community Conference APAC",
       "topic": "Bridging the Gap between Industry and Academia – Best Practice from NUS MSBA Programme",
       "type": "Topic",
