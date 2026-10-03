@@ -90,8 +90,10 @@ publication_category:
     title: 'Journal Articles'
   patents:
     title: 'Patents and Invention Disclosures'
+  company:
+    title: 'Company Papers and Technical Reports'
   books:
-    title: 'Books'
+    title: 'Book Chapters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
