@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Team Members"
+title: "Research Team"
 permalink: /team/
 author_profile: true
 redirect_from:
@@ -9,43 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Students
-------
-Zhang Jingqi (PhD, NUS Institute of Operations Research and Analytics)
+## Current Team Members
 
-LI Qiankun (PhD, NUS Institute of Operations Research and Analytics)
+### Researchers
 
-Boonthicha Sae-Jia, Mui (PhD, NUS Asian Institute of Digital Finance)
+- Mai Paihua (PostDoc)
+- Bhargav Sagiraju (Research Associate)
+- Soumya Haridas (Research Associate)
 
-Luo Hao (PhD, NUS College of Design and Engineering)
+### PhD Students
 
-Researchers
-------
-Mai Peihua (PhD graduated in 2025, Now, PostDoc at NUS)
+- Zhang Jingqi (Year 4, NUS Institute of Operations Research and Analytics)
+- Li Qiankun (Year 2, NUS Institute of Operations Research and Analytics)
+- Boonthicha Sae-Jia, Mui (Year 2, NUS School of Computing)
+- Luo Hao (Year 1, NUS College of Design and Engineering)
+- Lim Choon Hao (Year 1, NUS Institute of Operations Research and Analytics)
+- Wu Yuhan (Year 1, NUS Business School)
 
-Bhargav Sagiraju (Research Associate)
+### Master Students
 
-Soumya Haridas (Research Associate)
+- Maksim Silchenko
+- Aman Raj Mohta
+- Feng Sijia
+- Guo Yi
+- Gaurika Vasan
 
-Yu Zhen (Research Associate)
+## Previous Students
 
-Lim Choon Hao (Research Assistant)
-
-Wu Yuhan (Research Assistant)
-
-Hrithik Kannan Krishnan (Research Assistant)
-
-Previous Team Members
-======
-Li Wenqian (PostDoc at the Chinese University of Hong Kong)
-
-Yan Ran (Product Manager, ByteDance Doubao LLM)
-
-Shivam Bansal (Vice President, H2O.AI)
-
-Xhoni Shollaj (Senior Solution Architect, NVIDIA)
-
-Tang Han (Senior Staff Data Scientist, Tencent)
-
-Juwon Im (Account Manager, Meta)
+- Mai Paihua (PhD, Graduated in 2025, Now PostDoc at NUS)
+- Li Wenqian (PhD, Graduated in 2025, Now Scientist at KNOWIN)
+- Xhoni Shollaj (Senior Solution Architect, NVIDIA)
+- Shivam Bansal (Vice President, H2O.AI)
+- Tang Han (Senior Staff Data Scientist, Tencent)
+- Yan Ran (Product Manager, ByteDance Doubao LLM)
+- Juwon Im (Account Manager, Meta)
+- Gong He (Founder, FingerDance)
 
