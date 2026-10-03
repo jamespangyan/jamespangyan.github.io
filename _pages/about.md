@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,27 +15,27 @@ I am a Professor in the Department of Analytics and Operations at the National U
 
 ## My Research Group
 
-My research group focuses on two closely connected directions: Trustworthy AI and Data Marketplace. Together, these areas address a fundamental question in the AI era: how to build powerful AI systems that are reliable, secure, and economically viable. 
+My research group focuses on two closely connected directions: Trustworthy AI and Data Marketplace. Together, these areas address a fundamental question in the AI era: how to build powerful AI systems that are reliable, secure, and economically viable.
 
 Trustworthy AI Lab
 ------
 Our work on trustworthy AI spans the full lifecycle of AI, from data to models to deployment, with a focus on the following areas:
 - **Privacy-Preserving AI**
-Designing techniques that protect sensitive data during both model training and deployment. This includes enabling secure model training without exposing raw data, as well as safeguarding user privacy when interacting with AI systems (e.g., large language models such as ChatGPT). 
+Designing techniques that protect sensitive data during both model training and deployment. This includes enabling secure model training without exposing raw data, as well as safeguarding user privacy when interacting with AI systems (e.g., large language models such as ChatGPT).
 - **Robustness and AI Safety (Anti-Jailbreaking)**
-Enhancing the resilience of AI systems against adversarial inputs and prompt-based attacks. We study how malicious users can bypass safeguards and develop defense mechanisms that balance security, model performance, and computational efficiency. 
+Enhancing the resilience of AI systems against adversarial inputs and prompt-based attacks. We study how malicious users can bypass safeguards and develop defense mechanisms that balance security, model performance, and computational efficiency.
 - **Watermarking and Data Provenance**
-Developing techniques to trace and verify the use of data in AI models. This includes watermarking methods and copyright verification frameworks to detect unauthorized data usage and support accountability in AI systems. 
+Developing techniques to trace and verify the use of data in AI models. This includes watermarking methods and copyright verification frameworks to detect unauthorized data usage and support accountability in AI systems.
 
 Data Marketplace Lab
 ------
 Our work on data marketplaces focuses on enabling fair, secure, and efficient data exchange ecosystems, with strong connections to Trustworthy AI:
 - **Data Valuation and Pricing**
-Designing principled methods to quantify the value of datasets and enable fair pricing mechanisms in data transactions. 
+Designing principled methods to quantify the value of datasets and enable fair pricing mechanisms in data transactions.
 - **Data Ownership and Provenance**
-Leveraging technologies such as watermarking and blockchain to establish data ownership, and to track the end-to-end lifecycle of data usage. 
+Leveraging technologies such as watermarking and blockchain to establish data ownership, and to track the end-to-end lifecycle of data usage.
 - **Privacy-Preserving Data Trading**
-Developing mechanisms that allow data to be shared and monetized while preserving privacy, ensuring compliance with regulatory and ethical requirements. 
+Developing mechanisms that allow data to be shared and monetized while preserving privacy, ensuring compliance with regulatory and ethical requirements.
 
 Unifying Vision
 ------
