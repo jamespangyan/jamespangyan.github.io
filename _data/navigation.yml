@@ -12,7 +12,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Team"
+  - title: "Team"
     url: /team/
 
   - title: "Industry Engagement"
@@ -21,7 +21,7 @@ main:
   - title: "Media Coverage"
     url: /portfolio/
         
-  - title: "Technology Column Articles"
+  - title: "Tech Columns"
     url: /year-archive/
 
   - title: "Teaching"
