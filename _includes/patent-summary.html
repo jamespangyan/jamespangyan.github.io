@@ -1,0 +1,3 @@
+<p><strong>Inventors:</strong> {{ include.item.inventors | escape }}</p>
+<p><strong>{{ include.item.record_type | escape }}:</strong> {{ include.item.patent_number | escape }}<br />
+<strong>Status:</strong> {{ include.item.patent_status | escape }} &mdash; {{ include.item.date | date: "%B %Y" }}</p>
