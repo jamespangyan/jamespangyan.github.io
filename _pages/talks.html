@@ -1,16 +1,37 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Industry Engagement"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<p>Selected international industry conference presentations and talks, and consultations across analytics, AI, blockchain and optimization.</p>
+<p><a href="#conference-talks">Conference Presentations and Talks</a> &middot; <a href="#consultations">Consultations</a></p>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<h2 id="conference-talks">International Industry Conference Presentations and Talks</h2>
+{% assign talks_by_year = site.data.industry_engagement.talks | group_by: "year" %}
+{% for year in talks_by_year %}
+  <h3>{{ year.name }}</h3>
+  {% for talk in year.items %}
+    <article class="archive__item">
+      <h4>{{ talk.topic | escape }}</h4>
+      <p><strong>{{ talk.event | escape }}</strong><br />
+      {{ talk.date_display | escape }}{% if talk.location != "" %} &middot; {{ talk.location | escape }}{% endif %}{% if talk.type == "Keynote" %} &middot; Keynote{% endif %}</p>
+    </article>
+  {% endfor %}
 {% endfor %}
+
+<h2 id="consultations">Consultations</h2>
+<p>Organizations and areas of consultation, listed alphabetically.</p>
+<div style="overflow-x: auto;">
+  <table>
+    <thead>
+      <tr><th scope="col">Organization</th><th scope="col">Areas of Consultation</th></tr>
+    </thead>
+    <tbody>
+      {% for consultation in site.data.industry_engagement.consultations %}
+        <tr><th scope="row">{{ consultation.organization | escape }}</th><td>{{ consultation.area | escape }}</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

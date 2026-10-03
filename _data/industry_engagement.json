@@ -1,0 +1,317 @@
+{
+  "talks": [
+    {
+      "event": "SAP Academic Community Conference APAC",
+      "topic": "Bridging the Gap between Industry and Academia – Best Practice from NUS MSBA Programme",
+      "type": "Topic",
+      "year": "2025",
+      "date": "2025-07-01",
+      "date_display": "July 2025",
+      "location": "Manila, Philippines"
+    },
+    {
+      "event": "SAP Academic Community Conference APJC",
+      "topic": "How to Train the Next Generation Talents",
+      "type": "Topic",
+      "year": "2022",
+      "date": "2022-07-01",
+      "date_display": "July 2022",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "event": "SAP Global Analytics and Data Conference",
+      "topic": "The Synergy between Federated Learning and Blockchain - A New AI Learning Paradigm with Privacy Protection",
+      "type": "Topic",
+      "year": "2021",
+      "date": "2021-06-01",
+      "date_display": "June 2021",
+      "location": ""
+    },
+    {
+      "event": "China Blockchain and AI Forum",
+      "topic": "The synergy between Big Data, AI and Blockchain",
+      "type": "Topic",
+      "year": "2019",
+      "date": "2019-03-01",
+      "date_display": "March 2019",
+      "location": "Chongqing, China"
+    },
+    {
+      "event": "Singapore WOLOT Foundation Forum",
+      "topic": "Cryptocurrency Value Evaluation Framework",
+      "type": "Topic",
+      "year": "2019",
+      "date": "2019-01-01",
+      "date_display": "January 2019",
+      "location": "Singapore"
+    },
+    {
+      "event": "China-ASEAN Digital Economy Summit",
+      "topic": "The Frontiers in Artificial Intelligence",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-12-01",
+      "date_display": "December 2018",
+      "location": "Nanning, Guangxi, China"
+    },
+    {
+      "event": "AACSB Asia Pacific Annual Conference",
+      "topic": "Incorporating Tech Trends into the Business Analytics Education",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-10-01",
+      "date_display": "October 2018",
+      "location": "Nagoya, Japan"
+    },
+    {
+      "event": "The 3rd China-ASEAN Information Harbor Forum",
+      "topic": "The Synergy of AI and BlockChain",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-09-01",
+      "date_display": "September 2018",
+      "location": "Nanning Guangxi, China"
+    },
+    {
+      "event": "China BlockChain Innovation and Application Associate Conference",
+      "topic": "Singapore FinTech and BlockChain Strategy and Landscape",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-06-01",
+      "date_display": "June 2018",
+      "location": "Chongqing, China"
+    },
+    {
+      "event": "The 3rd Global Healthcare Big Data Conference",
+      "topic": "Healthcare Analytics Key Technologies",
+      "type": "Topic",
+      "year": "2017",
+      "date": "2017-11-09",
+      "date_display": "9–11 November 2017",
+      "location": "Shenzhen, China"
+    },
+    {
+      "event": "Internet Thinker Conference",
+      "topic": "Rethink of Artificial Intelligence",
+      "type": "Topic",
+      "year": "2017",
+      "date": "2017-11-01",
+      "date_display": "November 2017",
+      "location": "Singapore"
+    },
+    {
+      "event": "2017 Global Big Data for Healthcare Workshop, Peking University",
+      "topic": "Healthcare Operations Analytics",
+      "type": "Topic",
+      "year": "2017",
+      "date": "2017-01-01",
+      "date_display": "January 2017",
+      "location": "Beijing, China"
+    },
+    {
+      "event": "Europe Data Science Conference (EDSC) 2016",
+      "topic": "Big Data and Business Analytics: Accelerating Digital Transformation in Enterprises and Industries",
+      "type": "Keynote",
+      "year": "2016",
+      "date": "2016-11-01",
+      "date_display": "November 2016",
+      "location": "Luxembourg"
+    },
+    {
+      "event": "China Smart Enterprise Summit 2016",
+      "topic": "Big Data Analytics and Optimization in Supply Chain Planning",
+      "type": "Topic",
+      "year": "2016",
+      "date": "2016-09-01",
+      "date_display": "September 2016",
+      "location": "Boao, Hainan, China"
+    },
+    {
+      "event": "Big Data for Precision Medicine Conference, The University of Hong Kong",
+      "topic": "A Study of Personalized Patient Treatment in Rheumatoid Arthritis (RA)",
+      "type": "Topic",
+      "year": "2016",
+      "date": "2016-06-01",
+      "date_display": "June 2016",
+      "location": "Hong Kong, China"
+    }
+  ],
+  "consultations": [
+    {
+      "organization": "Alibaba",
+      "area": "Big data analytics, AI and Cloud Computing"
+    },
+    {
+      "organization": "AXA",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Baidu",
+      "area": "Solution Architecture, Analytics and Optimization"
+    },
+    {
+      "organization": "Bank of QingDao",
+      "area": "Solution Architecture, Analytics and Optimization"
+    },
+    {
+      "organization": "Changan Ford Automobile 长安福特",
+      "area": "Production Planning and Scheduling"
+    },
+    {
+      "organization": "Chery Automobile",
+      "area": "Production Planning and Scheduling"
+    },
+    {
+      "organization": "China Foreign Exchange Trade System (CFETS)",
+      "area": "Asset Portfolio Optimization"
+    },
+    {
+      "organization": "China Fortune Land Development (CFLD) Co.",
+      "area": "Geolocation Analytics"
+    },
+    {
+      "organization": "DACHSER",
+      "area": "Production Planning and Scheduling"
+    },
+    {
+      "organization": "DBS",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "DELL",
+      "area": "Supply Chain Analytics and Optimization"
+    },
+    {
+      "organization": "DHL",
+      "area": "Supply Chain Analytics and Optimization"
+    },
+    {
+      "organization": "Dongfeng Motor Corporation",
+      "area": "Production Planning and Scheduling"
+    },
+    {
+      "organization": "eBeeCare",
+      "area": "Analytics and Optimization"
+    },
+    {
+      "organization": "FAW Car 中国一汽",
+      "area": "Supply Chain and Production Planning and Scheduling"
+    },
+    {
+      "organization": "GAC Group 广汽集团",
+      "area": "Supply Chain and Production Planning and Scheduling"
+    },
+    {
+      "organization": "Hongkong International Terminals",
+      "area": "Yard Planning Optimization"
+    },
+    {
+      "organization": "HSBC",
+      "area": "Gen AI"
+    },
+    {
+      "organization": "Huawei",
+      "area": "Big data analytics, AI and Cloud Computing"
+    },
+    {
+      "organization": "IBD Technology",
+      "area": "Blockchain"
+    },
+    {
+      "organization": "Inland Revenue Authority of Singapore (IRAS)",
+      "area": "AI Chatbot"
+    },
+    {
+      "organization": "Integrated Health Information System (IHIS)",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Jinvovo Technology Group",
+      "area": "Big data analytics, AI and Blockchain"
+    },
+    {
+      "organization": "Johnson & Johnson",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Jurong Port",
+      "area": "workforce planning and scheduling"
+    },
+    {
+      "organization": "Luxembourg Institute of Science and Technology (LIST)",
+      "area": "Big data and AI"
+    },
+    {
+      "organization": "Marina Bay Sands",
+      "area": "Analytics and Optimization"
+    },
+    {
+      "organization": "Meiyume",
+      "area": "Big data Analytics and AI"
+    },
+    {
+      "organization": "Microsoft",
+      "area": "Analytics and Optimization"
+    },
+    {
+      "organization": "Ministry of Health Holding (MOHH)",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Ministry of Social and Family Development (MSF)",
+      "area": "Analytics and Optimization"
+    },
+    {
+      "organization": "Neptune Orient Lines (NOL)",
+      "area": "Empty Container Relocation Optimization"
+    },
+    {
+      "organization": "RICHTEK",
+      "area": "Supply Chain Planning"
+    },
+    {
+      "organization": "SAP",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Shanghai Electric Group",
+      "area": "Production Line Planning and Scheduling"
+    },
+    {
+      "organization": "Shanghai GM Automobile 上汽通用",
+      "area": "Production Line Planning and Scheduling"
+    },
+    {
+      "organization": "Singapore Customs",
+      "area": "Analytics and Cloud Computing"
+    },
+    {
+      "organization": "Singapore Tourism Board",
+      "area": "big data analytics and AI"
+    },
+    {
+      "organization": "SingHealth",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "State Street Corporation",
+      "area": "Asset Analytics and Optimization"
+    },
+    {
+      "organization": "Swiss Re",
+      "area": "Big data analytics and AI Strategy"
+    },
+    {
+      "organization": "Tetra Pak",
+      "area": "Big data analytics and AI"
+    },
+    {
+      "organization": "Tigergraph",
+      "area": "Analytics and AI"
+    },
+    {
+      "organization": "United Overseas Bank (UOB)",
+      "area": "Analytics and AI"
+    }
+  ]
+}
