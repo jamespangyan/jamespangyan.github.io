@@ -1,0 +1,204 @@
+{
+  "/publication/research-in-production-planning-and-scheduling-for-semi-process-industry": [
+    "Analytics and Optimization"
+  ],
+  "/publication/assembly-design-and-evaluation-in-an-augmented-reality-environment": [
+    "Augmented Reality"
+  ],
+  "/publication/assembly-feature-design-in-an-augmented-reality-environment": [
+    "Augmented Reality"
+  ],
+  "/publication/a-markerless-registration-method-for-augmented-reality-based-on-affine-properties": [
+    "Augmented Reality"
+  ],
+  "/publication/evaluation-and-planning-of-manual-assembly-on-workstation-in-an-augmented-reality-environment": [
+    "Augmented Reality",
+    "Analytics and Optimization"
+  ],
+  "/publication/robot-programming-and-assembly-design-using-augmented-reality": [
+    "Augmented Reality"
+  ],
+  "/publication/augmented-reality-aided-assembly-design-and-planning": [
+    "Augmented Reality",
+    "Analytics and Optimization"
+  ],
+  "/publication/rfid-in-supply-chain-operations-opportunities-and-challenges": [
+    "Other Technology"
+  ],
+  "/publication/design-for-logistics": [
+    "Analytics and Optimization"
+  ],
+  "/publication/a-production-scheduling-model-of-surface-mount-technology-lines": [
+    "Analytics and Optimization"
+  ],
+  "/patent/2008-11-01-patent-13/": [
+    "Analytics and Optimization"
+  ],
+  "/patent/2008-12-01-patent-14/": [
+    "Other Technology"
+  ],
+  "/publication/faw-car-chooses-manufacturing-productivity-optimization-solution-to-improve-production-productivity-and-reduce-cost": [
+    "Analytics and Optimization"
+  ],
+  "/publication/an-ontology-based-asset-portal-for-harvesting-optimization-solution-assets": [
+    "Analytics and Optimization"
+  ],
+  "/patent/2012-04-01-patent-12/": [
+    "Analytics and Optimization"
+  ],
+  "/publication/next-generation-information-technology": [
+    "Other Technology"
+  ],
+  "/patent/2014-04-01-patent-11/": [
+    "Other Technology"
+  ],
+  "/patent/2014-10-01-patent-10/": [
+    "Analytics and Optimization"
+  ],
+  "/publication/predictive-analytics-for-the-waiting-times-of-critical-patients-in-the-emergency-department": [
+    "Healthcare"
+  ],
+  "/patent/2015-05-01-patent-9/": [
+    "Other Technology"
+  ],
+  "/publication/cloud-computing-architecture-patterns": [
+    "Cloud Computing"
+  ],
+  "/publication/how-big-data-analytics-impacts-evidence-based-healthcare": [
+    "Healthcare"
+  ],
+  "/patent/2017-09-01-patent-8/": [
+    "Cloud Computing"
+  ],
+  "/patent/2018-03-01-patent-7/": [
+    "Other Technology"
+  ],
+  "/publication/development-of-a-radiology-decision-support-system-for-the-classification-of-mri-brain-scans": [
+    "Healthcare"
+  ],
+  "/publication/exploring-machine-learning-techniques-for-smart-drainage-system": [
+    "Other Technology"
+  ],
+  "/publication/sentiment-analysis-of-chinese-product-reviews-using-gated-recurrent-unit": [
+    "Other Technology"
+  ],
+  "/publication/cryptocurrency-price-prediction-using-time-series-and-social-sentiment-data": [
+    "Blockchain"
+  ],
+  "/publication/a-new-consensus-protocol-for-blockchain-interoperability-architecture": [
+    "Blockchain"
+  ],
+  "/publication/geolocation-analysis-framework-for-property-price-evaluation": [
+    "Analytics and Optimization"
+  ],
+  "/publication/a-novel-data-driven-methodology-for-influenza-outbreak-detection-and-prediction": [
+    "Healthcare"
+  ],
+  "/publication/can-blockchain-manage-trust-in-organizations": [
+    "Blockchain"
+  ],
+  "/publication/empowering-small-and-medium-enterprises-through-the-synergy-of-ai-and-blockchain": [
+    "Blockchain"
+  ],
+  "/patent/2021-12-01-patent-6/": [
+    "Privacy and Security",
+    "Data Valuation and Markets"
+  ],
+  "/publication/vertical-federated-graph-convolution-network-for-recommender-system": [
+    "Federated Learning"
+  ],
+  "/publication/dag-matters-a-flow-network-enhanced-explainer-for-graph-neural-networks": [
+    "Machine Learning"
+  ],
+  "/publication/two-important-things-to-do-before-federated-training": [
+    "Federated Learning",
+    "Machine Learning"
+  ],
+  "/patent/2023-05-01-patent-5/": [
+    "Other Technology"
+  ],
+  "/patent/2023-11-01-patent-4/": [
+    "Data Valuation and Markets"
+  ],
+  "/publication/privacy-preserving-multiview-matrix-factorization-for-recommender-systems": [
+    "Privacy and Security",
+    "Federated Learning"
+  ],
+  "/publication/distributionally-robust-federated-learning-with-wasserstein-barycenter": [
+    "Federated Learning",
+    "AI Safety and Reliability"
+  ],
+  "/publication/knowledge-graph-unlearning-to-defend-language-model-against-jailbreak-attack": [
+    "Large Language Models",
+    "Privacy and Security",
+    "AI Safety and Reliability"
+  ],
+  "/publication/rflpa-a-robust-federated-learning-framework-against-poisoning-attacks-with-secure-aggregation": [
+    "Privacy and Security",
+    "Federated Learning",
+    "AI Safety and Reliability"
+  ],
+  "/publication/multimodal-misinformation-detection-by-learning-from-synthetic-data-with-multimodal-llms": [
+    "Large Language Models",
+    "AI Safety and Reliability"
+  ],
+  "/publication/split-and-denoise-protect-large-language-model-inference-with-local-differential-privacy": [
+    "Large Language Models",
+    "Privacy and Security",
+    "AI Safety and Reliability"
+  ],
+  "/publication/data-valuation-and-detections-in-federated-learning": [
+    "Federated Learning",
+    "Data Valuation and Markets"
+  ],
+  "/patent/2024-01-01-patent-3/": [
+    "Large Language Models",
+    "Privacy and Security"
+  ],
+  "/publication/blockchain-technology-transforms-the-pharmaceutical-supply-chain": [
+    "Blockchain",
+    "Healthcare"
+  ],
+  "/publication/utilizing-language-models-for-synthetic-knowledge-graph-generation": [
+    "Large Language Models",
+    "Machine Learning"
+  ],
+  "/publication/secemb-sparsity-aware-secure-federated-learning-of-on-device-recommender-system-with-large-embedding": [
+    "Privacy and Security",
+    "Federated Learning"
+  ],
+  "/publication/illusory-pattern-perception-drives-spurious-inference-in-large-language-models": [
+    "Large Language Models",
+    "AI Safety and Reliability"
+  ],
+  "/publication/confusionprompt-practical-private-inference-for-online-large-language-models": [
+    "Large Language Models",
+    "Privacy and Security"
+  ],
+  "/publication/bridging-academia-and-industry-in-business-analytics-education-insights-from-the-national-university-of-singapore": [
+    "Analytics and Optimization"
+  ],
+  "/publication/when-sample-selection-bias-precipitates-model-collapse": [
+    "AI Safety and Reliability"
+  ],
+  "/publication/sharedrequest-privacy-preserving-model-agnostic-inference-for-large-language-models": [
+    "Large Language Models",
+    "Privacy and Security"
+  ],
+  "/publication/shared-spotlight-meridian-distributed-sparse-pseudorandom-functions-for-scalable-federated-learning": [
+    "Privacy and Security",
+    "Federated Learning"
+  ],
+  "/publication/nexus-scissor-enhance-open-access-language-model-safety-by-connection-pruning": [
+    "Large Language Models",
+    "AI Safety and Reliability"
+  ],
+  "/patent/2026-05-01-patent-1/": [
+    "Large Language Models",
+    "AI Safety and Reliability"
+  ],
+  "/patent/2026-05-01-patent-2/": [
+    "Large Language Models",
+    "Privacy and Security"
+  ]
+}

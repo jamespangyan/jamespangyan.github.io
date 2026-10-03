@@ -10,9 +10,33 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<link rel="stylesheet" href="{{ '/assets/css/publication-explorer.css' | relative_url }}" />
 
 <p>Conference papers, journal articles, company papers, technical reports and book chapters from my CV, together with patents and invention disclosures. Entries are listed by date within each category.</p>
 {% assign publications_by_date = site.publications | sort: "date" | reverse %}
+<section aria-labelledby="featured-research">
+  <h2 id="featured-research">Featured Research</h2>
+  <ul class="featured-publications">
+    {% for featured_url in site.data.featured_publications %}
+      {% assign featured = site.publications | where: "permalink", featured_url | first %}
+      <li><a href="{{ featured.url | relative_url }}"><strong>{{ featured.title | escape }}</strong></a><br />
+      {{ featured.venue | escape }} &middot; {{ featured.date | date: "%Y" }}{% if featured.publication_status == 'accepted' %} &middot; Accepted, forthcoming{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<h2 id="all-publications">Complete Publication List</h2>
+<div id="publication-explorer">
+  <fieldset id="publication-filters" hidden>
+    <legend>Find publications</legend>
+    <div class="publication-filter-fields">
+      <label class="publication-search">Search<input id="publication-search" type="search" placeholder="Title, author or venue" /></label>
+      <label>Year<select id="publication-year"><option value="">All years</option></select></label>
+      <label>Topic<select id="publication-topic"><option value="">All topics</option></select></label>
+      <button id="publication-reset" type="button">Clear filters</button>
+    </div>
+    <p id="publication-results" role="status" aria-live="polite"></p>
+  </fieldset>
 {% if site.publication_category %}
   <nav aria-label="Publication categories">
     <p>{% for category in site.publication_category %}<a href="#publications-{{ category[0] }}">{{ category[1].title }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
@@ -22,23 +46,20 @@ author_profile: true
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
+    <section class="publication-category" aria-labelledby="publications-{{ category[0] }}">
+      <h2 id="publications-{{ category[0] }}">{{ category[1].title }}</h2><hr />
     {% for post in publications_by_date %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      {% unless title_shown %}
-        <h2 id="publications-{{ category[0] }}">{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+      {% include publication-entry.html %}
     {% endfor %}
+    </section>
   {% endfor %}
 {% else %}
   {% for post in publications_by_date %}
-    {% include archive-single.html %}
+    {% include publication-entry.html %}
   {% endfor %}
 {% endif %}
-
-
-
+</div>
+<script type="module" src="{{ '/assets/js/publication-explorer.mjs' | relative_url }}"></script>

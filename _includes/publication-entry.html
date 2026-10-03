@@ -1,0 +1,29 @@
+{% assign research_topics = site.data.publication_topics[post.permalink] %}
+<article class="publication-record" data-year="{{ post.date | date: '%Y' }}" data-topics="{{ research_topics | join: '|' | escape }}" data-category="{{ post.category | escape }}">
+  <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+  {% if post.category == 'patents' %}
+    {% include patent-summary.html item=post %}
+  {% else %}
+    <p class="publication-authors">{{ post.authors | escape }}</p>
+    <p>{% if post.publication_status == 'accepted' %}Accepted at{% else %}Published in{% endif %} <i>{{ post.venue | escape }}</i> &middot; {{ post.date | date: '%Y' }}{% if post.publication_status == 'accepted' %} &middot; Forthcoming{% endif %}</p>
+  {% endif %}
+  {% if post.excerpt != '' %}<p>{{ post.excerpt | markdownify }}</p>{% endif %}
+  <p class="publication-topics">{{ research_topics | join: ' &middot; ' }}</p>
+  <div class="publication-links">
+    {% if post.paperurl %}
+      {% if post.paperurl contains 'arxiv.org' %}
+        <a href="{{ post.paperurl | escape }}">arXiv</a>
+      {% else %}
+        <a href="{{ post.paperurl | escape }}">{% if post.category == 'books' %}Chapter{% else %}Paper{% endif %}</a>
+      {% endif %}
+    {% endif %}
+    {% if post.arxivurl %}<a href="{{ post.arxivurl | escape }}">arXiv</a>{% endif %}
+    {% if post.codeurl %}<a href="{{ post.codeurl | escape }}">Code</a>{% endif %}
+    {% if post.projecturl %}<a href="{{ post.projecturl | escape }}">Project</a>{% endif %}
+    {% if post.slidesurl %}<a href="{{ post.slidesurl | escape }}">Slides</a>{% endif %}
+    {% if post.bibtexurl %}<a href="{{ post.bibtexurl | escape }}">BibTeX</a>{% endif %}
+  </div>
+  {% if post.citation %}
+    <details class="publication-citation"><summary>Citation</summary><p>{{ post.citation }}</p></details>
+  {% endif %}
+</article>
