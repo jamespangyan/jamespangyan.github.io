@@ -5,13 +5,12 @@ permalink: /cv-json/
 author_profile: false
 redirect_from:
   - /resume-json
+  - /cv/
 ---
 
 {% include base_path %}
 
-{% include cv-template.html %}
+<p>Curriculum vitae &middot; October 2026</p>
+<p><a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a> &middot; <a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf" download="James_Pang_CV_Oct_2026.pdf">Download CV</a></p>
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+<iframe src="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf#view=FitH" title="James Pang curriculum vitae — October 2026" style="width: 100%; height: 80vh; min-height: 600px; border: 1px solid #ddd;"></iframe>
