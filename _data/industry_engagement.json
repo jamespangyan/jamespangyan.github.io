@@ -19,6 +19,15 @@
       "location": "Manila, Philippines"
     },
     {
+      "event": "SAP AI Community Forum",
+      "topic": "Data Scientist Skills for the Future",
+      "type": "Topic",
+      "year": "2022",
+      "date": "2022-08-01",
+      "date_display": "August 2022",
+      "location": ""
+    },
+    {
       "event": "SAP Academic Community Conference APJC",
       "topic": "How to Train the Next Generation Talents",
       "type": "Topic",
@@ -28,6 +37,33 @@
       "location": "Melbourne, Australia"
     },
     {
+      "event": "Julius Baer Blockchain Innovation Forum",
+      "topic": "Blockchain and Crypocurrency – Hype Or Trend?",
+      "type": "Topic",
+      "year": "2022",
+      "date": "2022-05-01",
+      "date_display": "May 2022",
+      "location": ""
+    },
+    {
+      "event": "Huawei Seeds For The Future Conference",
+      "topic": "Skills for the Future",
+      "type": "Topic",
+      "year": "2021",
+      "date": "2021-12-01",
+      "date_display": "December 2021",
+      "location": "Singapore"
+    },
+    {
+      "event": "ZhongXin (Chongqing) Enterprise Forum",
+      "topic": "Industry 4.0 and Digital Transformation",
+      "type": "Topic",
+      "year": "2021",
+      "date": "2021-11-01",
+      "date_display": "November 2021",
+      "location": "Chongqing, China"
+    },
+    {
       "event": "SAP Global Analytics and Data Conference",
       "topic": "The Synergy between Federated Learning and Blockchain - A New AI Learning Paradigm with Privacy Protection",
       "type": "Topic",
@@ -35,6 +71,42 @@
       "date": "2021-06-01",
       "date_display": "June 2021",
       "location": ""
+    },
+    {
+      "event": "PSA Data Festival",
+      "topic": "Synergy Between Federated Learning and Blockchain",
+      "type": "Topic",
+      "year": "2020",
+      "date": "2020-09-01",
+      "date_display": "September 2020",
+      "location": "Singapore"
+    },
+    {
+      "event": "Dyson Global Data Science Annual Conference",
+      "topic": "Business Analytics Landscape and Future Outlook",
+      "type": "Topic",
+      "year": "2019",
+      "date": "2019-09-01",
+      "date_display": "September 2019",
+      "location": "Singapore"
+    },
+    {
+      "event": "Johnson & Johnson Advanced Analytics Seminar",
+      "topic": "Co-Innovations between Industry and Academia in Business Analytics",
+      "type": "Topic",
+      "year": "2019",
+      "date": "2019-08-01",
+      "date_display": "August 2019",
+      "location": "Singapore"
+    },
+    {
+      "event": "BYD Smart Manufacturing Seminar",
+      "topic": "Optimization-based Production Planning and Scheduling in Automotive Industry",
+      "type": "Topic",
+      "year": "2019",
+      "date": "2019-05-01",
+      "date_display": "May 2019",
+      "location": "Shenzhen, China"
     },
     {
       "event": "China Blockchain and AI Forum",
@@ -73,6 +145,15 @@
       "location": "Nagoya, Japan"
     },
     {
+      "event": "DELL Technical Forum",
+      "topic": "The Smart Supply Chain",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-10-01",
+      "date_display": "October 2018",
+      "location": "Singapore"
+    },
+    {
       "event": "The 3rd China-ASEAN Information Harbor Forum",
       "topic": "The Synergy of AI and BlockChain",
       "type": "Topic",
@@ -82,6 +163,15 @@
       "location": "Nanning Guangxi, China"
     },
     {
+      "event": "IBD Technology Technical Forum",
+      "topic": "BlockChain Transforms Traditional Loyalty Programs",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-09-01",
+      "date_display": "September 2018",
+      "location": "Singapore"
+    },
+    {
       "event": "China BlockChain Innovation and Application Associate Conference",
       "topic": "Singapore FinTech and BlockChain Strategy and Landscape",
       "type": "Topic",
@@ -89,6 +179,33 @@
       "date": "2018-06-01",
       "date_display": "June 2018",
       "location": "Chongqing, China"
+    },
+    {
+      "event": "Zhejiang University Research Seminar",
+      "topic": "Business Analytics: Progress on Applications and Future Outlook",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-06-01",
+      "date_display": "June 2018",
+      "location": "Hangzhou, Zhejiang, China"
+    },
+    {
+      "event": "FAW Manufacturing System Workshop",
+      "topic": "Industry Big Data Analytics and Optimization Platform",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-06-01",
+      "date_display": "June 2018",
+      "location": "Changchun, Jilin, China"
+    },
+    {
+      "event": "SingHealth Health Services Research Centre Seminar Series, SingHealth",
+      "topic": "Big Data Analytics Transforms Healthcare Industry",
+      "type": "Topic",
+      "year": "2018",
+      "date": "2018-05-01",
+      "date_display": "May 2018",
+      "location": "Singapore"
     },
     {
       "event": "The 3rd Global Healthcare Big Data Conference",
@@ -106,6 +223,24 @@
       "year": "2017",
       "date": "2017-11-01",
       "date_display": "November 2017",
+      "location": "Singapore"
+    },
+    {
+      "event": "AXA Technology forum",
+      "topic": "business Transformation under ABCD Technologies",
+      "type": "Topic",
+      "year": "2017",
+      "date": "2017-06-01",
+      "date_display": "June 2017",
+      "location": "Singapore"
+    },
+    {
+      "event": "HuaWei Enterprise Digitalization – Operations Transformation Global Conference",
+      "topic": "Digital Transformation in Global Enterprise",
+      "type": "Panel Discussion",
+      "year": "2017",
+      "date": "2017-05-24",
+      "date_display": "24 May 2017",
       "location": "Singapore"
     },
     {
@@ -143,6 +278,168 @@
       "date": "2016-06-01",
       "date_display": "June 2016",
       "location": "Hong Kong, China"
+    },
+    {
+      "event": "IHiS Healthcare Technology Seminar, Integrated Healthcare Information Systems Pte Ltd",
+      "topic": "Key Technologies in Healthcare Analytics",
+      "type": "Topic",
+      "year": "2016",
+      "date": "2016-06-01",
+      "date_display": "June 2016",
+      "location": "Singapore"
+    },
+    {
+      "event": "Microsoft Singapore Data Scientist Seminar",
+      "topic": "Fundamentals in Business Analytics",
+      "type": "Topic",
+      "year": "2015",
+      "date": "2015-05-01",
+      "date_display": "May 2015",
+      "location": "Singapore"
+    },
+    {
+      "event": "IBM GMU Technical Conference",
+      "topic": "Healthcare Analytics Reference Architecture",
+      "type": "Topic",
+      "year": "2014",
+      "date": "2014-02-01",
+      "date_display": "February 2014",
+      "location": "Dubai, UAE"
+    },
+    {
+      "event": "Singapore Healthcare Analytics Workshop, IBM",
+      "topic": "The Next Frontier in Healthcare Analytics",
+      "type": "Topic",
+      "year": "2013",
+      "date": "2013-11-01",
+      "date_display": "November 2013",
+      "location": "Singapore"
+    },
+    {
+      "event": "Social Program Management Solution Technical Workshop, Ministry of Social and Family Development",
+      "topic": "Analytics in Next Generation Social Service Platform",
+      "type": "Topic",
+      "year": "2013",
+      "date": "2013-09-01",
+      "date_display": "September 2013",
+      "location": "Singapore"
+    },
+    {
+      "event": "IRAS Technical Workshop, Inland Revenue Authority of Singapore",
+      "topic": "Apply Watson Cognitive Computing Technology in Citizen Service",
+      "type": "Topic",
+      "year": "2013",
+      "date": "2013-08-01",
+      "date_display": "August 2013",
+      "location": "Singapore"
+    },
+    {
+      "event": "IBM Healthcare Architect Annual Meeting",
+      "topic": "Healthcare Process Improvement – A Case Study from Singapore",
+      "type": "Topic",
+      "year": "2013",
+      "date": "2013-06-01",
+      "date_display": "June 2013",
+      "location": "Dallas, TX, US"
+    },
+    {
+      "event": "Customs Solution Technical Workshop, Singapore Customs",
+      "topic": "The Vision and Architecture Design of New TradeNet and TradeXchange",
+      "type": "Topic",
+      "year": "2013",
+      "date": "2013-01-01",
+      "date_display": "January 2013",
+      "location": "Singapore"
+    },
+    {
+      "event": "SuNing e-Commerce Symposium, SuNing",
+      "topic": "Supply Chain Network Optimization and Inventory Optimization",
+      "type": "Topic",
+      "year": "2012",
+      "date": "2012-06-01",
+      "date_display": "June 2012",
+      "location": "Nanjing, Jiangsu, China"
+    },
+    {
+      "event": "IBM China Research and Development Open Day",
+      "topic": "Optimization-based Production Planning and Scheduling",
+      "type": "Topic",
+      "year": "2012",
+      "date": "2012-05-01",
+      "date_display": "May 2012",
+      "location": "Beijiang, China"
+    },
+    {
+      "event": "Alibaba Cloud Computing Seminar",
+      "topic": "Cloud Application Platform and API Economy",
+      "type": "Topic",
+      "year": "2012",
+      "date": "2012-03-01",
+      "date_display": "March 2012",
+      "location": "Hangzhou, China"
+    },
+    {
+      "event": "Advanced Manufacturing Technical Workshop, Foton Motor",
+      "topic": "Manufacturing Productivity Optimization Solution",
+      "type": "Topic",
+      "year": "2011",
+      "date": "2011-04-01",
+      "date_display": "April 2011",
+      "location": "Beijing, China"
+    },
+    {
+      "event": "LARC Research Seminar, Singapore Management University",
+      "topic": "Advanced Analytics and Optimization (AAO) Framework to Solve Complex Real World Problems",
+      "type": "Topic",
+      "year": "2011",
+      "date": "2011-03-01",
+      "date_display": "March 2011",
+      "location": "Singapore"
+    },
+    {
+      "event": "Supply Chain Management Forum, Tsingdao Brewery",
+      "topic": "Production Planning and Scheduling in Process Manufacturing Industry",
+      "type": "Topic",
+      "year": "2010",
+      "date": "2010-08-01",
+      "date_display": "August 2010",
+      "location": "Qingdao, China"
+    },
+    {
+      "event": "FAW production planning and scheduling seminar, First Automotive Works (FAW)",
+      "topic": "Improve Productivity using Optimization-based Production Planning and Scheduling",
+      "type": "Topic",
+      "year": "2010",
+      "date": "2010-01-01",
+      "date_display": "January 2010",
+      "location": "Changchun, China"
+    },
+    {
+      "event": "Manufacturing Technology Workshop, Changan Ford",
+      "topic": "How to Apply Optimization Techniques in Manufacturing System",
+      "type": "Topic",
+      "year": "2009",
+      "date": "2009-09-01",
+      "date_display": "September 2009",
+      "location": "Chongqing, China"
+    },
+    {
+      "event": "Chery Automotive Technical Workshop, Chery Automotive",
+      "topic": "Supply Chain Optimization",
+      "type": "Topic",
+      "year": "2009",
+      "date": "2009-08-01",
+      "date_display": "August 2009",
+      "location": "Wuhu, Anhui, China"
+    },
+    {
+      "event": "Manufacturing Technology Forum, Motorola",
+      "topic": "The Optimization of Printed Circuit Board Assembly Lines",
+      "type": "Topic",
+      "year": "2008",
+      "date": "2008-05-01",
+      "date_display": "May 2008",
+      "location": "Penang, Malaysia"
     }
   ],
   "consultations": [

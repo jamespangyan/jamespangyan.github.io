@@ -5,18 +5,21 @@ permalink: /talks/
 author_profile: true
 ---
 
-<p>Selected international industry conference presentations and talks, and consultations across analytics, AI, blockchain and optimization.</p>
+<p>Selected international industry conference presentations, company invited talks and consultations across analytics, AI, blockchain and optimization.</p>
 <p><a href="#conference-talks">Conference Presentations and Talks</a> &middot; <a href="#consultations">Consultations</a></p>
 
 <h2 id="conference-talks">International Industry Conference Presentations and Talks</h2>
 {% assign talks_by_year = site.data.industry_engagement.talks | group_by: "year" %}
+<nav aria-label="Industry presentations and talks by year">
+  <p>{% for year in talks_by_year %}<a href="#talks-{{ year.name }}">{{ year.name }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
+</nav>
 {% for year in talks_by_year %}
-  <h3>{{ year.name }}</h3>
+  <h3 id="talks-{{ year.name }}">{{ year.name }}</h3>
   {% for talk in year.items %}
     <article class="archive__item">
-      <h4>{{ talk.topic | escape }}</h4>
+      <h4 style="font-size: 1em;">{{ talk.topic | escape }}</h4>
       <p><strong>{{ talk.event | escape }}</strong><br />
-      {{ talk.date_display | escape }}{% if talk.location != "" %} &middot; {{ talk.location | escape }}{% endif %}{% if talk.type == "Keynote" %} &middot; Keynote{% endif %}</p>
+      {{ talk.date_display | escape }}{% if talk.location != "" %} &middot; {{ talk.location | escape }}{% endif %}{% if talk.type != "Topic" %} &middot; {{ talk.type | escape }}{% endif %}</p>
     </article>
   {% endfor %}
 {% endfor %}
