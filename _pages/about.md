@@ -61,4 +61,4 @@ I have contributed to industry advisory boards and technical communities spannin
 
 ### Education
 
-I earned my **Ph.D. at the National University of Singapore through the Singapore–MIT Alliance programme**, and my master's and bachelor's degrees at **Zhejiang University**.
+I earned my **Ph.D. at the [National University of Singapore (NUS)](https://nus.edu.sg/)** jointly with **[Massachusetts Institute of Technology (MIT)](https://www.mit.edu/)**, and my master's and bachelor's degrees at **[Zhejiang University (ZJU)](https://www.zju.edu.cn/english/)**.
