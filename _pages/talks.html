@@ -7,7 +7,7 @@ author_profile: true
 
 <p>My industry experience spans architecture, research and engineering at IBM, Motorola and Micron. I also engage with industry through conference presentations, invited talks and consultations across analytics, AI, blockchain and optimization.</p>
 <nav aria-label="Industry engagement sections">
-  <p><a href="#industry-experience">Industry Experience</a> &middot; <a href="#conference-talks">Conference Presentations and Talks</a> &middot; <a href="#consultations">Consultations</a></p>
+  <p><a href="#industry-experience">Industry Experience</a> &middot; <a href="#conference-talks">Industry Presentations and Talks</a> &middot; <a href="#consultations">Consultations</a></p>
 </nav>
 
 <h2 id="industry-experience">Industry Experience</h2>
@@ -49,7 +49,7 @@ author_profile: true
 </section>
 <p><a href="{{ '/cv-json/' | relative_url }}">View my CV for the full career history</a></p>
 
-<h2 id="conference-talks">International Industry Conference Presentations and Talks</h2>
+<h2 id="conference-talks">Industry Presentations and Talks</h2>
 {% assign talks_by_year = site.data.industry_engagement.talks | group_by: "year" %}
 <nav aria-label="Industry presentations and talks by year">
   <p>{% for year in talks_by_year %}<a href="#talks-{{ year.name }}">{{ year.name }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>
