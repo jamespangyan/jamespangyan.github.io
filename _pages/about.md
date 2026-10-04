@@ -45,7 +45,7 @@ These two research directions are deeply interconnected. Trustworthy AI provides
 
 ### Industry Experience
 
-Before my current academic role, I held architecture and leadership positions at **IBM**, following research and engineering roles at **Motorola Labs** and **Micron Technology**. My work focused on analytics and optimisation for public services, manufacturing, and supply chains.
+Before my current academic role, I held research, architecture and leadership positions at **[IBM](https://www.ibm.com/)**, **[Motorola](https://www.motorola.com/)** and **[Micron](https://www.micron.com/)**. My work focused on designing, developing and deploying AI, big data, analytics and optimisation solutions for large enterprises across finance, healthcare, e-commerce, manufacturing and supply chains.
 
 [Explore my industry experience]({{ '/talks/#industry-experience' | relative_url }})
 
