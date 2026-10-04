@@ -15,40 +15,31 @@ I am a Professor in the Department of Analytics and Operations at the National U
 
 ## My Research Group
 
-Our group studies **trustworthy AI across the AI lifecycle**, with a focus on privacy, safety, and data collaboration. Our Trustworthy AI Lab and Data Marketplace Lab connect the technical foundations of secure AI with the ownership, valuation, and exchange of data.
+My research group focuses on two closely connected directions: Trustworthy AI and Data Marketplace. Together, these areas address a fundamental question in the AI era: how to build powerful AI systems that are reliable, secure, and economically viable.
 
-We organise our research around four connected stages. These are primary areas of focus; privacy and safety concerns span the lifecycle.
+Trustworthy AI Lab
+------
+Our work on trustworthy AI spans the full lifecycle of AI, from data to models to deployment, with a focus on the following areas:
+- **Privacy-Preserving AI**
+Designing techniques that protect sensitive data during both model training and deployment. This includes enabling secure model training without exposing raw data, as well as safeguarding user privacy when interacting with AI systems (e.g., large language models such as ChatGPT).
+- **Robustness and AI Safety (Anti-Jailbreaking)**
+Enhancing the resilience of AI systems against adversarial inputs and prompt-based attacks. We study how malicious users can bypass safeguards and develop defense mechanisms that balance security, model performance, and computational efficiency.
+- **Watermarking and Data Provenance**
+Developing techniques to trace and verify the use of data in AI models. This includes watermarking methods and copyright verification frameworks to detect unauthorized data usage and support accountability in AI systems.
 
-### 1. Data Collaboration
+Data Marketplace Lab
+------
+Our work on data marketplaces focuses on enabling fair, secure, and efficient data exchange ecosystems, with strong connections to Trustworthy AI:
+- **Data Valuation and Pricing**
+Designing principled methods to quantify the value of datasets and enable fair pricing mechanisms in data transactions.
+- **Data Ownership and Provenance**
+Leveraging technologies such as watermarking and blockchain to establish data ownership, and to track the end-to-end lifecycle of data usage.
+- **Privacy-Preserving Data Trading**
+Developing mechanisms that allow data to be shared and monetized while preserving privacy, ensuring compliance with regulatory and ethical requirements.
 
-We study how organisations can collaborate on data while protecting ownership and recognising its value.
-
-- **Data ownership and provenance:** Establishing ownership and tracing how data is shared and used.
-- **Data valuation and pricing:** Measuring the contribution of data to AI models and developing pricing methods for data exchange.
-- **Synthetic data:** Exploring generated data to support collaboration and model development.
-
-### 2. Model Training
-
-We develop **secure federated learning** methods that allow participants to train models collaboratively while keeping raw data local. Our work addresses privacy protection and robustness against malicious contributions during collaborative training.
-
-### 3. Inference and Agents
-
-We study privacy and security when AI models and agents are deployed and used.
-
-- **Privacy-preserving LLM inference:** Protecting sensitive user inputs when interacting with large language models.
-- **Machine unlearning:** Developing methods to remove selected information or behaviours from trained models.
-- **Multi-agent privacy and security:** Studying how collaborating AI agents can protect information and interact securely.
-
-### 4. Outputs and Audit
-
-We develop methods to assess the safety of AI outputs and trace their origins.
-
-- **Watermarking and provenance for generated content:** Supporting the identification and tracing of AI-generated content.
-- **Robustness and jailbreak defence:** Strengthening models against adversarial inputs and attempts to bypass safety safeguards.
-
-Together, these directions connect trusted data collaboration, secure training, protected inference, and accountable outputs. Data marketplaces provide a complementary setting for studying how data can be valued and exchanged while preserving privacy and ownership.
-
-[Explore our publications]({{ '/publications/' | relative_url }}) &middot; [Meet the research team]({{ '/team/' | relative_url }})
+Unifying Vision
+------
+These two research directions are deeply interconnected. Trustworthy AI provides the technical foundation, while data marketplaces provide the economic and ecosystem layer. Together, they enable a future where data and AI systems are not only powerful, but also trustworthy, transparent, and aligned with societal values.
 
 ## Academic and Industry Background
 
