@@ -43,16 +43,22 @@ These two research directions are deeply interconnected. Trustworthy AI provides
 
 ## Academic and Industry Background
 
-Dr. Pang is currently a Professor in the Department of Analytics and Operations (DAO) at the National University of Singapore (NUS). He also serves as the Co-Director of the NUS Business Analytics Center (NUS BAC). His recent research focuses on data privacy and security, trustworthy AI, Blockchain, and Business Analytics. He has rich multi-industry experience in Manufacturing, Supply Chain/Logistics, Finance, Healthcare, and Retail sectors.
+### Industry Experience
 
-Prior to his current role, he was the Chief Architect in Analytics and Optimisation at IBM and led the IBM solution design for ASEAN Public Sector. He has also held key positions as Lead Architect and Senior Manager at IBM R&D Labs, focusing on analytics and optimization product development.
+Before my current academic role, I held architecture and leadership positions at **IBM**, following research and engineering roles at **Motorola Labs** and **Micron Technology**. My work focused on analytics and optimisation for public services, manufacturing, and supply chains.
 
-Earlier in his career, Dr. Pang contributed as a Research Scientist at Motorola Labs and Micron Technology, where he developed and implemented operations research and analytics models to enhance supply chains and manufacturing systems.
+[Explore my industry experience]({{ '/talks/#industry-experience' | relative_url }})
 
-Dr. Pang is the recipient of numerous prestigious industry and academic awards, including Leading Academic Data Leader by CDO Magazine, IBM Outstanding Technical Achievement Award (OTAA), Master Certified Architect in the Open Group, IBM Invention Plateau Award, finalist of the Andrew Fraser Prize 2007 of IMechE.
+### Selected Recognition
 
-Dr. Pang also serves on several industry advisory boards, such as Singapore Tourism Board Data Advisory Panel, SAP APCJ Academic Board, China Cloud System Pioneer Strategic Alliance, Singapore Computer Society (Business Analytics Chapter), IBM BAO (business analytics and optimization) architecture board, IBM SDE (Software Defined Environment) architecture board, IBM AP Invention Disclosure Review Board, China 12th five-year development advisory board (IT chapter).
+My professional recognition includes **Leading Academic Data Leader** from CDO Magazine and the **IBM Outstanding Technical Achievement Award**. I am also a **Master Certified Architect** with The Open Group.
 
-Dr. Pang holds over ten patents across the United States, China, and Singapore and publishes extensively in top-tier AI and analytics journals and conferences such as NeurIPS, ICML, CVPR, ICLR, IEEE S&P, EMNLP, and TAI.
+### Advisory Service
 
-Dr. Pang holds a Ph.D. from National University of Singapore (NUS) jointly with Massachusetts Institute of Technology (MIT), and Master’s and Bachelor’s degrees from Zhejiang University (ZJU), China.
+I have contributed to industry advisory boards and technical communities spanning AI, analytics, cloud computing, and blockchain.
+
+[See appointments and service in my CV]({{ '/cv-json/' | relative_url }})
+
+### Education
+
+I earned my **Ph.D. at the National University of Singapore through the Singapore–MIT Alliance programme**, and my master's and bachelor's degrees at **Zhejiang University**.
