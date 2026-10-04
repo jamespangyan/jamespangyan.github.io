@@ -53,6 +53,8 @@ Before my current academic role, I held research, architecture and leadership po
 
 My professional recognition includes **Leading Academic Data Leader** from CDO Magazine and the **IBM Outstanding Technical Achievement Award**. I am also a **Master Certified Architect** with The Open Group.
 
+[See honours and awards in my CV]({{ '/cv-json/' | relative_url }})
+
 ### Advisory Service
 
 I have contributed to industry advisory boards and technical communities spanning AI, analytics, cloud computing, and blockchain.
