@@ -14,17 +14,6 @@ author_profile: true
 
 <p>Conference papers, journal articles, company papers, technical reports and book chapters from my CV, together with patents and invention disclosures. Entries are listed by date within each category.</p>
 {% assign publications_by_date = site.publications | sort: "date" | reverse %}
-<section aria-labelledby="featured-research">
-  <h2 id="featured-research">Featured Research</h2>
-  <ul class="featured-publications">
-    {% for featured_url in site.data.featured_publications %}
-      {% assign featured = site.publications | where: "permalink", featured_url | first %}
-      <li><a href="{{ featured.url | relative_url }}"><strong>{{ featured.title | escape }}</strong></a><br />
-      {{ featured.venue | escape }} &middot; {{ featured.date | date: "%Y" }}{% if featured.publication_status == 'accepted' %} &middot; Accepted, forthcoming{% endif %}</li>
-    {% endfor %}
-  </ul>
-</section>
-
 <h2 id="all-publications">Complete Publication List</h2>
 <div id="publication-explorer">
   <fieldset id="publication-filters" hidden>

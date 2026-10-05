@@ -1,4 +1,3 @@
-.featured-publications li { margin-bottom: 1em; }
 #publication-explorer [hidden] { display: none !important; }
 #publication-filters { min-width: 0; padding: 1em; margin-bottom: 1.5em; border: 1px solid var(--global-border-color); border-radius: 10px; }
 #publication-filters legend { padding: 0 0.4em; font-weight: bold; }
