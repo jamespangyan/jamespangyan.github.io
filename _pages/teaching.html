@@ -26,7 +26,12 @@ author_profile: true
 {% for achievement in site.data.teaching.competitions %}
 <section aria-labelledby="competition-{{ forloop.index }}">
   <h3 id="competition-{{ forloop.index }}">{{ achievement.competition | escape }}</h3>
-  <p><strong>{{ achievement.award | escape }}</strong> &middot; {{ achievement.date | escape }}{% if achievement.prize %} &middot; {{ achievement.prize | escape }}{% endif %}</p>
+  <p><strong>{{ achievement.award | escape }}</strong> &middot; {{ achievement.date | escape }}{% if achievement.location %} &middot; {{ achievement.location | escape }}{% endif %}{% if achievement.prize %} &middot; {{ achievement.prize | escape }}{% endif %}</p>
+  {% if achievement.highlights %}
+  <ul>
+    {% for highlight in achievement.highlights %}<li>{{ highlight | escape }}</li>{% endfor %}
+  </ul>
+  {% endif %}
   <details>
     <summary>Student team</summary>
     <p>{{ achievement.students | join: ', ' | escape }}</p>
