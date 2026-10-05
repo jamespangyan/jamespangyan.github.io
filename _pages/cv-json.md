@@ -11,9 +11,9 @@ redirect_from:
 {% include base_path %}
 
 <p>Curriculum vitae &middot; October 2026</p>
-<p><a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf" target="_blank" rel="noopener">Open PDF in a new tab</a> &middot; <a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf" download="James_Pang_CV_Oct_2026.pdf">Download CV</a></p>
+<p><a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf?v=20261005-116167" target="_blank" rel="noopener">Open PDF in a new tab</a> &middot; <a href="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf?v=20261005-116167" download="James_Pang_CV_Oct_2026.pdf">Download CV</a></p>
 
-<div id="cv-pdf-viewer" data-pdf-url="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf">
+<div id="cv-pdf-viewer" data-pdf-url="{{ base_path }}/files/James_Pang_CV_Oct_2026.pdf?v=20261005-116167">
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1em; margin-bottom: 1em;" aria-label="CV page navigation">
     <button id="cv-previous" type="button" disabled>Previous</button>
     <span id="cv-page-status" role="status" aria-live="polite">Loading CV…</span>

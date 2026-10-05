@@ -200,5 +200,9 @@
   "/patent/2026-05-01-patent-2/": [
     "Large Language Models",
     "Privacy and Security"
+  ],
+  "/publication/a-novel-multimodal-cross-attention-method-for-corporate-financial-risk-prediction": [
+    "Machine Learning",
+    "Analytics and Optimization"
   ]
 }
