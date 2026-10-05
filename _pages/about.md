@@ -17,7 +17,7 @@ I am a Professor in the Department of Analytics and Operations at the National U
 
 Our group studies **trustworthy AI, blockchain and decentralised finance (DeFi)**. We develop methods to protect sensitive information, strengthen system security and make data and AI outputs verifiable. These goals connect our research across AI systems and decentralised infrastructure.
 
-### Trustworthy AI Lab
+### Trustworthy AI
 
 We address **privacy, safety and data collaboration across the AI lifecycle**, from the data used to build models to the outputs produced by deployed AI agents:
 
