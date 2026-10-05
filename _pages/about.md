@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Analytics and Operations at the National University of Singapore and Co-Director of the NUS Business Analytics Centre. My research focuses on **trustworthy AI, privacy-preserving learning, and data marketplaces**, with applications in business analytics.
+I am a Professor in the Department of Analytics and Operations at the National University of Singapore and Co-Director of the NUS Business Analytics Centre. My research focuses on **trustworthy AI, privacy-preserving learning, blockchain and decentralised finance (DeFi)**, with applications in business analytics.
 
 <nav aria-label="Explore my work">
   <p><a class="btn btn--primary" href="{{ '/publications/' | relative_url }}">Publications</a> <a class="btn btn--primary" href="{{ '/team/' | relative_url }}">Research Team</a> <a class="btn btn--primary" href="{{ '/cv-json/' | relative_url }}">CV</a></p>
@@ -15,30 +15,29 @@ I am a Professor in the Department of Analytics and Operations at the National U
 
 ## My Research Group
 
-My research group brings together the **Trustworthy AI Lab** and **Data Marketplace Lab**. We study how to build reliable and secure AI systems, and how to support data collaboration through clear ownership, valuation and privacy protection.
+Our group studies **trustworthy AI, blockchain and decentralised finance (DeFi)**. We develop methods to protect sensitive information, strengthen system security and make data and AI outputs verifiable. These goals connect our research across AI systems and decentralised infrastructure.
 
 ### Trustworthy AI Lab
 
-Our research addresses **privacy, safety and data collaboration across the AI lifecycle**, with four connected areas of focus:
+We address **privacy, safety and data collaboration across the AI lifecycle**, from the data used to build models to the outputs produced by deployed AI agents:
 
-- **1. Data Collaboration:** We study data ownership and provenance, data valuation and pricing, and synthetic data to support collaboration and model development.
-- **2. Model Training:** We develop secure federated learning methods for collaborative training while keeping raw data local, alongside defences against data poisoning and backdoor attacks.
-- **3. Inference and Agents:** We study privacy-preserving inference for large language models (LLMs), machine unlearning, and privacy and security in multi-agent systems.
-- **4. Outputs and Audit:** We develop watermarking and provenance methods for AI-generated content, strengthen robustness and jailbreak defences, and evaluate the outputs of LLMs and AI agents.
+- **1. Data Collaboration:** Establishing data ownership and provenance, measuring data value and developing pricing methods, and exploring synthetic data for collaboration and model development.
+- **2. Model Training:** Developing secure federated learning methods that keep raw data local, alongside defences against data poisoning and backdoor attacks.
+- **3. Inference and Agents:** Protecting privacy during large language model (LLM) inference, developing machine unlearning methods, and studying privacy and security in multi-agent systems.
+- **4. Outputs and Audit:** Tracing AI-generated content through watermarking and provenance, strengthening robustness and jailbreak defences, and evaluating LLM and agent outputs.
 
-Privacy and safety concerns span these stages, connecting our work on data, models, agents and their outputs.
+Privacy and safety span all four stages. Our aim is to make AI systems more reliable, secure and accountable throughout their development and use.
 
-### Data Marketplace Lab
+### Blockchain and DeFi
 
-Our research on data marketplaces complements this lifecycle approach by studying how data can be valued, shared and exchanged securely:
+Our research on blockchain and DeFi focuses on **privacy, security and trust**, with two complementary directions:
 
-- **Data Valuation and Pricing:** Measuring the contribution of datasets and developing fair pricing methods for data transactions.
-- **Data Ownership and Provenance:** Using technologies such as watermarking and blockchain to establish ownership and trace data use.
-- **Privacy-Preserving Data Trading:** Developing mechanisms for sharing and monetising data while protecting sensitive information.
+- **Trusted Data Infrastructure:** Combining blockchain and watermarking technologies to support data authenticity, integrity and verifiability.
+- **Privacy and Accountability in DeFi:** Developing privacy-preserving technologies that balance pseudonymity with accountability in DeFi ecosystems.
 
 ### Unifying Vision
 
-Together, the two labs connect the technical foundations of trustworthy AI with the economic mechanisms of data exchange. Our aim is to support AI and data ecosystems that are secure, accountable and useful in practice.
+Across these research directions, we seek to protect information while enabling collaboration and accountability. Trustworthy AI addresses how models and agents learn and act; blockchain and DeFi address how data and transactions can be verified while preserving privacy.
 
 [Explore our publications]({{ '/publications/' | relative_url }}) &middot; [Meet the research team]({{ '/team/' | relative_url }})
 
