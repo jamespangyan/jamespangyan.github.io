@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Analytics and Operations at the National University of Singapore and Co-Director of the NUS Business Analytics Centre. My research focuses on **trustworthy AI, privacy-preserving learning, blockchain and decentralised finance (DeFi)**, with applications in business analytics.
+I am a Professor in the Department of Analytics and Operations at the National University of Singapore and Co-Director of the NUS Business Analytics Centre. My research focuses on **trustworthy AI, privacy-preserving learning, blockchain and decentralised finance (DeFi)**.
 
 <nav aria-label="Explore my work">
   <p><a class="btn btn--primary" href="{{ '/publications/' | relative_url }}">Publications</a> <a class="btn btn--primary" href="{{ '/team/' | relative_url }}">Research Team</a> <a class="btn btn--primary" href="{{ '/cv-json/' | relative_url }}">CV</a></p>
@@ -21,10 +21,10 @@ Our group studies **trustworthy AI, blockchain and decentralised finance (DeFi)*
 
 We address **privacy, safety and data collaboration across the AI lifecycle**, from the data used to build models to the outputs produced by deployed AI agents:
 
-- **1. Data Collaboration:** Establishing data ownership and provenance, measuring data value and developing pricing methods, and exploring synthetic data for collaboration and model development.
-- **2. Model Training:** Developing secure federated learning methods that keep raw data local, alongside defences against data poisoning and backdoor attacks.
-- **3. Inference and Agents:** Protecting privacy during large language model (LLM) inference, developing machine unlearning methods, and studying privacy and security in multi-agent systems.
-- **4. Outputs and Audit:** Tracing AI-generated content through watermarking and provenance, strengthening robustness and jailbreak defences, and evaluating LLM and agent outputs.
+- **Data Collaboration:** Establishing data ownership and provenance, measuring data value and developing pricing methods, and exploring synthetic data for collaboration and model development.
+- **Model Training:** Developing secure federated learning methods that keep raw data local, alongside defences against data poisoning and backdoor attacks.
+- **Inference and Agents:** Protecting privacy during large language model (LLM) inference, developing machine unlearning methods, and studying privacy and security in multi-agent systems.
+- **Outputs and Audit:** Tracing AI-generated content through watermarking and provenance, strengthening robustness and jailbreak defences, and evaluating LLM and agent outputs.
 
 Privacy and safety span all four stages. Our aim is to make AI systems more reliable, secure and accountable throughout their development and use.
 
