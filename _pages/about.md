@@ -19,6 +19,12 @@ Our group studies **trustworthy AI, blockchain and decentralised finance (DeFi)*
 
 ### Trustworthy AI
 
+<figure style="margin: 1.25em 0;">
+  <a href="{{ '/images/trustworthy-ai-lifecycle.png' | relative_url }}" target="_blank" rel="noopener" aria-label="View the Trustworthy AI research diagram at full size">
+    <img src="{{ '/images/trustworthy-ai-lifecycle.png' | relative_url }}" alt="Trustworthy AI research across four stages of the AI lifecycle: data collaboration, model training, inference and agents, and outputs and audit, with privacy, safety and data collaboration throughout." width="1696" height="816" loading="lazy" decoding="async" style="width: 100%; height: auto;" />
+  </a>
+</figure>
+
 We address **privacy, safety and data collaboration across the AI lifecycle**, from the data used to build models to the outputs produced by deployed AI agents:
 
 - **Data Collaboration:** Establishing data ownership and provenance, measuring data value and developing pricing methods, and exploring synthetic data for collaboration and model development.
